@@ -34,6 +34,7 @@ export default async function handler(req: NextRequest) {
             color: 'black',
             textAlign: 'center',
             marginTop: 48,
+            marginLeft: 200,
             width: '100%',
           }}
         >
