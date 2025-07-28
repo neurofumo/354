@@ -38,8 +38,8 @@ export default async function handler(req: NextRequest) {
   // If type is 'evil', override config
   if (type === 'evil') {
     target = {
-      month: 7,
-      day: 28,
+      month: 3,
+      day: 25,
       hour: 0,
       minute: 0,
       second: 0,
